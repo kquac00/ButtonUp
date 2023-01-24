@@ -1,0 +1,28 @@
+.search {
+    background-color: whitesmoke;
+    color:lightseagreen;
+    border-radius: 25px;
+    border: solid;
+    margin: 10px 25px;
+    padding: 5px 40px;
+    height: 30px;
+}
+.add {
+    background-color: lightseagreen;
+    border-radius: 50%;
+    color:white;
+    border:none;
+    margin: 5px 25px;
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+    
+}
+.create {
+    background-color: rgb(22, 154, 236);
+    color: white;
+    box-shadow: 5px 5px black;
+    margin: 10px 25px;
+    height: 35px;
+    width: 170px;
+}
